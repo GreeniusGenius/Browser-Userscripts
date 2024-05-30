@@ -1,7 +1,7 @@
 // ==UserScript ==
 // @name         Expand Shortened URL
 // @namespace    https://github.com/GreeniusGenius
-// @downloadURL
+// @downloadURL  https://github.com/GreeniusGenius/Browser-Userscripts/raw/master/src/Expand%20URL.js
 // @author       Ryan Green
 // @version      1.0.0
 // @description  Redirects shortened tracking URLs via Expandurl.net to the expanded URL form, useful when DNS adblockers like PiHole and browser based blockers like Ublock Origin block URL shorteners.
