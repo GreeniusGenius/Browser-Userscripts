@@ -4,11 +4,11 @@ Speeds up tedious tasks in web browsing, albeit some scripts may be niche but th
 ## Instructions
 It's not mandatory to use my suggested userscript software, but it is recommended to use an open source option.
 
-[Click here if you are using a Chromium based browser (like Chrome, Arc, or Edge), (or an extension compatible browser (Orion)).](#Chromium Instructions)
+[Click here if you are using a Chromium based browser (like Chrome, Arc, or Edge), (or an extension compatible browser (Orion)).](#chromium instructions)
 
-[Click here if you are using Firefox (or an extension compatible browser (Orion)).](#Firefox Instructions)
+[Click here if you are using Firefox (or an extension compatible browser (Orion)).](#firefox instructions)
 
-[Click here if you are using Safari.](#Safari Instructions)
+[Click here if you are using Safari.](#safari instructions)
 
 ### Chromium Instructions
 [Get ViolentMonkey from the Chrome Web Store](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)
@@ -21,7 +21,7 @@ Click the plus + symbol on the top left.
 
 Select Install from URL.
 
-Paste the [url of the browserscript(s) you wish to install](#Browserscript URLs).
+Paste the [url of the browserscript(s) you wish to install](#browserscript urls).
 
 ### Firefox Instructions
 [Get ViolentMonkey from the Firefox Web Store](https://addons.mozilla.org/firefox/addon/violentmonkey/)
@@ -34,7 +34,7 @@ Click the plus + symbol on the top left.
 
 Select Install from URL.
 
-Paste the [url of the browserscript(s) you wish to install](#Browserscript URLs).
+Paste the [url of the browserscript(s) you wish to install](#browserscript urls).
 
 ### Safari Instructions
 [Get Userscripts for iOS, iPadOS and macOS from the Apple App Store](https://itunes.apple.com/us/app/userscripts/id1463298887)
@@ -48,7 +48,7 @@ Paste the [url of the browserscript(s) you wish to install](#Browserscript URLs)
 
 **On macOS**
 
-Visit the [url of the browserscript(s) you wish to install](#Browserscript URLs) and follow the prompt to install.
+Visit the [url of the browserscript(s) you wish to install](#browserscript urls) and follow the prompt to install.
 
 
 If the prompt does not appear, simply click on the Userscripts *</>* symbol in the address bar. (If it isn't there, click View in the menu bar, then Customise Toolbar, and drag it from the dropdown pane into the toolbar (at the top of the window))
@@ -57,10 +57,10 @@ Once you have opened the small window, click Open Extension Page.
 
 Then click the + icon on the top right of the left hand aligned pane.
 
-Then select New Remote, and paste the [url of the browserscript(s) you wish to install](#Browserscript URLs) that you copied from this page.
+Then select New Remote, and paste the [url of the browserscript(s) you wish to install](#browserscript urls) that you copied from this page.
 
 **On iOS and iPadOS**
-Visit the [url of the browserscript(s) you wish to install](#Browserscript URLs) and follow the prompt. 
+Visit the [url of the browserscript(s) you wish to install](#browserscript urls) and follow the prompt. 
 
 [See the official UserScripts GitHub for further instructions](https://github.com/quoid/userscripts#usage)
 
