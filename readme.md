@@ -1,5 +1,5 @@
 # Browser Userscripts 
-Speeds up tedious tasks in web browsing, albeit some scripts may be niche but there is no point in other people having to 'parallel invent' the same code, or to reinvent the wheel.
+Speeds up tedious tasks in web browsing, albeit some scripts may be niche but there is no point in other people having to 'parallel invent' the same code, or reinvent the wheel.
 
 ## Instructions
 It's not mandatory to use my suggested userscript software, but it is recommended to use an open source option.
