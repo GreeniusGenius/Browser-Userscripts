@@ -13,13 +13,28 @@ It's not mandatory to use my suggested userscript software, but it is recommende
 ### Chromium Instructions
 [Get ViolentMonkey from the Chrome Web Store](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)
 
-Click on your extensions jigsaw symbol or the ViolentMonkey symbol by the address bar (if pinned) [ViolentMonkey Icon](https://violentmonkey.github.io/static/vm-6437e4e5a400c6eff1c23ead4d549b0a.png)
+Click on your extensions jigsaw symbol and then the ViolentMonkey symbol or the ViolentMonkey symbol by the address bar (if pinned) [ViolentMonkey Icon](https://violentmonkey.github.io/static/vm-6437e4e5a400c6eff1c23ead4d549b0a.png)
 
+Click the settings cog icon on the pane that pops up.
+
+Click the plus + symbol on the top left.
+
+Select Install from URL.
+
+Paste the [url of the browserscript(s) you wish to install](#Browserscript URLs).
 
 ### Firefox Instructions
 [Get ViolentMonkey from the Firefox Web Store](https://addons.mozilla.org/firefox/addon/violentmonkey/)
 
-Click on your extensions jigsaw symbol or the ViolentMonkey symbol by the address bar (if pinned) [ViolentMonkey Icon](https://violentmonkey.github.io/static/vm-6437e4e5a400c6eff1c23ead4d549b0a.png)
+Click on your extensions jigsaw symbol and then the ViolentMonkey symbol or the ViolentMonkey symbol by the address bar (if pinned) [ViolentMonkey Icon](https://violentmonkey.github.io/static/vm-6437e4e5a400c6eff1c23ead4d549b0a.png)
+
+Click the settings cog icon on the pane that pops up.
+
+Click the plus + symbol on the top left.
+
+Select Install from URL.
+
+Paste the [url of the browserscript(s) you wish to install](#Browserscript URLs).
 
 ### Safari Instructions
 [Get Userscripts for iOS, iPadOS and macOS from the Apple App Store](https://itunes.apple.com/us/app/userscripts/id1463298887)
