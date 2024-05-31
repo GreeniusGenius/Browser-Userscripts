@@ -3,7 +3,7 @@
 // @namespace    https://github.com/GreeniusGenius
 // @downloadURL  https://github.com/GreeniusGenius/Browser-Userscripts/raw/master/src/Skip%20Adwalled%20URLs.user.js
 // @author       Ryan Green
-// @version      1.0.0
+// @version      1.0.1
 // @description  Redirects shortened advert and tracking URLs via adbypass.org to the expanded URL form, useful when DNS adblockers like PiHole and browser based blockers like Ublock Origin block URL shorteners. This version is a lot less complicated than the original author's version.
 // @match        *://*linkvertise.com/*
 // @match        *://*linkvertise.net/*
@@ -18,9 +18,9 @@
 // @exclude      *://publisher.linkvertise.com/*
 // @exclude      *://link-mutation.linkvertise.com/*
 // @exclude      *://linkvertise.com/assets/external/thinksuggest*
-// @icon https://www.google.com/s2/favicons?sz=64&domain=adbypass.org
-// @grant CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/) - Based upon Bypass.city Team's Linkvertise Bypass Script
-// @license
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=adbypass.org
+// @grant        none
+// @license      CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/) - Based upon Bypass.city Team's Linkvertise Bypass Script
 // ==/UserScript==
 
  var ping1 = () => {
