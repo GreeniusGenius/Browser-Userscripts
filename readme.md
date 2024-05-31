@@ -66,10 +66,10 @@ Visit the [url of the browserscript(s) you wish to install](#browserscript-urls)
 
 
 ### Browserscript URLs
-[Skip Adwalled URLs](https://github.com/GreeniusGenius/Browser-Userscripts/raw/master/src/Skip%20Adwalled%20URLs.js)
+[Skip Adwalled URLs](https://github.com/GreeniusGenius/Browser-Userscripts/raw/master/src/Skip%20Adwalled%20URLs.user.js)
 
-[Expand and bypass tracking URLs](https://github.com/GreeniusGenius/Browser-Userscripts/raw/master/src/Expand%20URL.js)
+[Expand and bypass tracking URLs](https://github.com/GreeniusGenius/Browser-Userscripts/raw/master/src/Expand%20URL.user.js)
 
-[Remove News Paywalls (Using Archive.Today for supported websites.)](https://github.com/GreeniusGenius/Browser-Userscripts/raw/master/src/Remove%20News%20Paywall.js)
+[Remove News Paywalls (Using Archive.Today for supported websites.)](https://github.com/GreeniusGenius/Browser-Userscripts/raw/master/src/Remove%20News%20Paywall.user.js)
 
-[Remove News Paywalls (Other) (Using 12ft.io for supported websites.)](https://github.com/GreeniusGenius/Browser-Userscripts/raw/master/src/Remove%20Other%20News%20Paywalls.js)
+[Remove News Paywalls (Other) (Using 12ft.io for supported websites.)](https://github.com/GreeniusGenius/Browser-Userscripts/raw/master/src/Remove%20Other%20News%20Paywalls.user.js)

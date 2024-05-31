@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Redirect Paywalled Sites to Archive.Today
 // @namespace    https://github.com/GreeniusGenius
-// @downloadURL  https://github.com/GreeniusGenius/Browser-Userscripts/raw/master/src/Remove%20News%20Paywall.js
+// @downloadURL  https://github.com/GreeniusGenius/Browser-Userscripts/raw/master/src/Remove%20News%20Paywall.user.js
 // @version      1.0.0
 // @description  Redirects NYTimes, WSJ etc. to archive.today (also .is, .ph etc.) so there is no paywall!!
 // @author       Mokshsinghji via https://gist.github.com/mokshsinghji/fea83081c00c1ed8693faed33bf2c531
