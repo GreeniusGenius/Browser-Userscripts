@@ -6,7 +6,7 @@ It's not mandatory to use my suggested userscript software, but it is recommende
 
 [Click here if you are using a Chromium based browser (like Chrome, Arc, or Edge), (or an extension compatible browser (Orion)).](#chromium-instructions)
 
-[Click here if you are using Firefox (or an extension compatible browser (Orion)).](#firefox-instructions)
+[Click here if you are using Firefox (or an extension compatible browser (Orion, Zen Browser, Floorp)).](#firefox-instructions)
 
 [Click here if you are using Safari.](#safari-instructions)
 
@@ -75,3 +75,5 @@ Visit the [url of the browserscript(s) you wish to install](#browserscript-urls)
 [Remove News Paywalls (Using Archive.Today for supported websites.)](https://github.com/GreeniusGenius/Browser-Userscripts/raw/master/src/Remove%20News%20Paywall.user.js)
 
 [Remove News Paywalls (Other) (Using 12ft.io for supported websites.)](https://github.com/GreeniusGenius/Browser-Userscripts/raw/master/src/Remove%20Other%20News%20Paywalls.user.js)
+
+[Redirect Userscripts.org to Userscripts-MIRROR.org](https://github.com/GreeniusGenius/Browser-Userscripts/raw/master/src/Userscripts.org%20to%20Userscripts-MIRROR.org.user.js)
